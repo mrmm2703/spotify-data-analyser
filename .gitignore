@@ -5,3 +5,5 @@
 *.spotifydata
 *.json
 *.spotifydata
+*.png
+.idea\
